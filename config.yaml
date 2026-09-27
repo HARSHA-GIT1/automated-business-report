@@ -1,0 +1,21 @@
+input_file: data/input/sample_sales.csv
+output_file: data/output/weekly_business_report.xlsx
+
+report:
+  frequency: weekly
+  low_revenue_threshold: 100000
+  schedule_day: mon
+  schedule_hour: 9
+  schedule_minute: 0
+
+columns:
+  transaction_id: Transaction ID
+  order_date: Order Date
+  product: Product
+  category: Category
+  region: Region
+  quantity: Units Sold
+  unit_price: Unit Price
+  revenue: Revenue
+
+day_first: true

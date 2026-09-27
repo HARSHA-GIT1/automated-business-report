@@ -1,0 +1,6 @@
+Transaction ID,Order Date,Product,Category,Region,Units Sold,Unit Price,Revenue
+A1001,2026-12-05,Laptop Stand,Office Supplies,North,2,45.0,90.0
+A1002,2026-12-06,Keyboard,electronics,West,3,30.0,90.0
+A1003,2026-12-07,Mouse,Electronics,North,5,15.0,75.0
+A1004,2026-12-08,Monitor,Electronics,South,1,220.0,220.0
+A1005,2026-12-09,Notebook,,West,4,7.5,
